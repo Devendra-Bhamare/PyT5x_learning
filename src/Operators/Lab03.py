@@ -7,4 +7,3 @@ if user_name > 100:
     print("u r good")
 else:
     print("ok")
-
