@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecd0f89b-5df7-417b-b62d-7255dbe4592a" name="Changes" comment="operators">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condition_loops/Lab_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Condition_loops/Lab_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condition_loops/Lab_03_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Condition_loops/Lab_03_grade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condition_loops/Lab_04_triangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Condition_loops/Lab_04_triangles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condition_loops/lab-_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Condition_loops/lab-_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/Lab_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Loops/Lab_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators/Lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Operators/Lab01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators/Lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Operators/Lab02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators/Lab03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_/Operators/Lab03.py" afterDir="false" />
-    </list>
+    <list default="true" id="ecd0f89b-5df7-417b-b62d-7255dbe4592a" name="Changes" comment="operators" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739988606343</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="operators">
+      <option name="closed" value="true" />
+      <created>1740397074667</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740397074667</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
