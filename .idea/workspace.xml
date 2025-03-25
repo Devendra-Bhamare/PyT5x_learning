@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecd0f89b-5df7-417b-b62d-7255dbe4592a" name="Changes" comment="operatorss">
+    <list default="true" id="ecd0f89b-5df7-417b-b62d-7255dbe4592a" name="Changes" comment="functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +52,14 @@
   "keyToString": {
     "Python.Lab-02_function_type.executor": "Run",
     "Python.Lab-03_function.executor": "Run",
+    "Python.Lab-04_Function types.executor": "Run",
+    "Python.Lab-05_.executor": "Run",
     "Python.Lab02_while.executor": "Run",
     "Python.Lab03_for_if_else.executor": "Run",
     "Python.Lab05_match.executor": "Run",
     "Python.Lab_01.executor": "Run",
     "Python.Lab_01_Basic_function.executor": "Run",
+    "Python.Lab_02_annoation.executor": "Run",
     "Python.Lab_03_Pass.executor": "Run",
     "Python.Lab_03_grade.executor": "Run",
     "Python.Lab_04_Continue.executor": "Run",
@@ -210,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740770910116</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="functions">
+      <option name="closed" value="true" />
+      <created>1741718984897</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741718984897</updated>
+    </task>
+    <task id="LOCAL-00014" summary="functions">
+      <option name="closed" value="true" />
+      <created>1741718992933</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741718992933</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +242,7 @@
     <MESSAGE value="operator" />
     <MESSAGE value="operators" />
     <MESSAGE value="operatorss" />
-    <option name="LAST_COMMIT_MESSAGE" value="operatorss" />
+    <MESSAGE value="functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions" />
   </component>
 </project>
